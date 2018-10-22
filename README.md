@@ -1,2 +1,2 @@
 # Hello-world
-Rachel's Coding stuff
+Rachel's coding stuff for school
